@@ -1,6 +1,6 @@
 import AboutMe from './components/aboutme/AboutMe';
 import NavBar from './components/navbar/NavBar';
-import Skills from './components/Skills/skills';
+import Skills from './components/skills/Skills';
 
 export default function Home() {
   return (
