@@ -18,12 +18,12 @@ export default function Home() {
           {"<p>"}
           <Typewriter
             words={['Bachelor of Computer Science', 'Full Stack Developer', 'Job Seeker']}
-            loop={5}
+            loop={false}
             cursor
-            cursorStyle='|'
+            cursorStyle='_'
             typeSpeed={70}
             deleteSpeed={50}
-            delaySpeed={1000}
+            delaySpeed={1500}
           />
           {"</p>"}
         </h2>
